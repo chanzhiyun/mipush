@@ -1,0 +1,10 @@
+vendor/*
+composer.lock
+nbproject/
+*.project
+*.buildpath
+.settings
+.tags
+.tags_sorted_by_file
+%SystemDrive%/
+.idea/

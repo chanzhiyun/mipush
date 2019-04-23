@@ -1,0 +1,20 @@
+{
+    "name": "zelda/mipush",
+    "description": "小米消息推送",
+    "type": "library",
+    "require": {
+        "php": ">=5.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "卷曲",
+            "email": "yzelda@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "zelda\\xiaomi\\": "./src"
+        }
+    }
+}
